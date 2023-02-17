@@ -18,3 +18,5 @@ npm start
 ## Comment
 
 The html is a template to do a test
+
+This app it's thanks to Udemy course "Nodejs" by Fernando Herrera
